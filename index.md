@@ -3,7 +3,8 @@
 <title>Patrick Lacey Home</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<LINK rel="stylesheet" type="text/css" href="nav.md">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<LINK rel="stylesheet" type="text/css" href="nav.css">
 <link rel="stylesheet" href="css1.css">
 <link rel='stylesheet' href='css2.css'>
 <link rel="stylesheet" href="css3.css">
